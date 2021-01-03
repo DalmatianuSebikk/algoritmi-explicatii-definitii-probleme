@@ -1,1 +1,3 @@
-# algoritmi-explicatii-definitii-probleme
+# Algoritmi, definitii, explicatii si probleme in Python
+
+Exact ce zice si titlul.
